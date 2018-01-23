@@ -15,6 +15,8 @@
 		1F8C7D741FEDA8B7003ED819 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F8C7D721FEDA8B7003ED819 /* LaunchScreen.storyboard */; };
 		1F8C7D7F1FEDA8B7003ED819 /* AR_AnimatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8C7D7E1FEDA8B7003ED819 /* AR_AnimatorTests.swift */; };
 		1F8C7D8A1FEDA8B7003ED819 /* AR_AnimatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8C7D891FEDA8B7003ED819 /* AR_AnimatorUITests.swift */; };
+		1F8C7DCC1FF44594003ED819 /* Object.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8C7DCB1FF44594003ED819 /* Object.swift */; };
+		1F8C7DCD1FF44594003ED819 /* Object.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8C7DCB1FF44594003ED819 /* Object.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,7 @@
 		1F8C7D851FEDA8B7003ED819 /* AR AnimatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AR AnimatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F8C7D891FEDA8B7003ED819 /* AR_AnimatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AR_AnimatorUITests.swift; sourceTree = "<group>"; };
 		1F8C7D8B1FEDA8B7003ED819 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F8C7DCB1FF44594003ED819 /* Object.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Object.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +105,7 @@
 				1F8C7D671FEDA8B7003ED819 /* AppDelegate.swift */,
 				1F8C7D691FEDA8B7003ED819 /* art.scnassets */,
 				1F8C7D6B1FEDA8B7003ED819 /* ViewController.swift */,
+				1F8C7DCB1FF44594003ED819 /* Object.swift */,
 				1F8C7D6D1FEDA8B7003ED819 /* Main.storyboard */,
 				1F8C7D701FEDA8B7003ED819 /* Assets.xcassets */,
 				1F8C7D721FEDA8B7003ED819 /* LaunchScreen.storyboard */,
@@ -264,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F8C7D6C1FEDA8B7003ED819 /* ViewController.swift in Sources */,
+				1F8C7DCC1FF44594003ED819 /* Object.swift in Sources */,
 				1F8C7D681FEDA8B7003ED819 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,6 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F8C7DCD1FF44594003ED819 /* Object.swift in Sources */,
 				1F8C7D7F1FEDA8B7003ED819 /* AR_AnimatorTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
